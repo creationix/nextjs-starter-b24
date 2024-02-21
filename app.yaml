@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: tim-nextjs-starter-b24
+package: tim/nextjs-starter-b24
